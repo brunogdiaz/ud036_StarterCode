@@ -8,7 +8,10 @@ Movie Trailer Web is a website where the top movies are shown with their corresp
 
 To successfully run Movie Trailer Web, make sure to install:
 
-> Python 2 \nGit
+```
+Python 2
+Git
+```
 
 #### **How to Run**
 
