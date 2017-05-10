@@ -1,4 +1,3 @@
-
 import webbrowser
 from PIL import Image
 import urllib
