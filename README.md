@@ -9,9 +9,20 @@ Movie Trailer Web is a website where the top movies are shown with their corresp
 To successfully run Movie Trailer Web, make sure to install:
 
 ```
-Python 2
+Python 2.7
 Git
 ```
 
 #### **How to Run**
 
+1. Clone to your directory this repository by typing in your terminal
+
+```
+git clone https://github.com/brunogdiaz/ud036_StarterCode.git
+``` 
+
+2. Run the entertainment_center script with python
+
+'''
+python entertainment_center.py
+'''
