@@ -6,7 +6,7 @@ Movie Trailer Web is a website where the top movies are shown with their corresp
 
 #### **Libraries and Dependencies**
 
-To successfully run Movie Trailer Web, make sure to install:
+To successfully run Movie Trailer Web, make sure to have the following installed:
 
 ```
 Python 2.7

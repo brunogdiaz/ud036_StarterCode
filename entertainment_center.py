@@ -1,6 +1,8 @@
 import media
 import fresh_tomatoes as FT
 
+# Builds the Movie object with title, storyline, trailer link, image directory
+
 title = "Toy Story"
 storyline = "Woody (Tom Hanks), a good-hearted cowboy doll who belongs to"\
             "a young boy named Andy (John Morris), sees his position as"\
@@ -62,6 +64,7 @@ image = "images/Hunger_Games.jpg"
 
 the_hunger_games = media.Movie(title, storyline, image, trailer)
 
+# Builds a list of movies with the movie objects made
 movies = [toy_story, ratatouille, space_jam, the_hunger_games]
 
 FT.open_movies_page(movies)
