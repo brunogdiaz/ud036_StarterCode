@@ -23,6 +23,7 @@ git clone https://github.com/brunogdiaz/ud036_StarterCode.git
 
 2. Run the entertainment_center script with python
 
-'''
+```
 python entertainment_center.py
-'''
+```
+
