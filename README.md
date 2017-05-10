@@ -1,2 +1,6 @@
-# ud036_StarterCode
-Source code for a Movie Trailer website.
+## **Movie Trailer Web.**
+
+#### **Description**
+
+Movie Trailer Web is a website where the top movies are shown with their corresponding information, storyline, and Rotten Tomatoes rating. It also gives the ability to go even further and see the trailer for the movie you are interested in. 
+

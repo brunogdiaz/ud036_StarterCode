@@ -1,5 +1,5 @@
-import media 
-import fresh_tomatoes as FT 
+import media
+import fresh_tomatoes as FT
 
 title = "Toy Story"
 storyline = "Woody (Tom Hanks), a good-hearted cowboy doll who belongs to"\
@@ -65,5 +65,3 @@ the_hunger_games = media.Movie(title, storyline, image, trailer)
 movies = [toy_story, ratatouille, space_jam, the_hunger_games]
 
 FT.open_movies_page(movies)
-
-
